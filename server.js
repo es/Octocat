@@ -109,7 +109,6 @@ var octoArr = [
 	{"id":106,"img":"octoliberty.png","name":"OctoLiberty"}
 ];
 
-
 var server = http.createServer(function(req, res){
   //console.log("req:",req);
   logger.log("req.headers: " + logger.inspect(req.headers, { showHidden: true, depth: null }));

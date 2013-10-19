@@ -2,7 +2,7 @@
   "name": "Octocat-API",
   "version": "0.1.0",
   "description": "The Octocat API we've all been wishing for.",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "grunt": "0.4.1",
     "grunt-cli": "0.1.9",
